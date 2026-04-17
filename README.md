@@ -1,8 +1,8 @@
 <p align="left">Hi, I'm Gabriel Souza 👋</p>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielSouza2006&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielSouza2006&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielSouza2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=GabrielSouza2006&theme=tokyonight" height="150" />
 </div>
 
 ###
