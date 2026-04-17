@@ -1,10 +1,28 @@
 <p align="left">Hi, I'm Gabriel Souza 👋</p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielSouza2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=GabrielSouza2006&theme=tokyonight" height="150" />
-</div>
+<p align="left"><strong>🚀 Featured Projects</strong></p>
 
+<div align="left">
+
+  <p>
+    <strong>📅 Scheduling System (Java + Spring Boot)</strong><br>
+    Backend system for managing appointments, applying business rules and database integration.<br>
+    Technologies: Java, Spring Boot, MySQL
+  </p>
+
+  <p>
+    <strong>🔗 REST API (Python + Flask)</strong><br>
+    API for data processing and integration, following REST principles and clean code practices.<br>
+    Technologies: Python, Flask
+  </p>
+
+  <p>
+    <strong>🌐 Web Applications & Landing Pages</strong><br>
+    Development and maintenance of web systems, focusing on performance and business logic.<br>
+    Technologies: JavaScript, PHP, MySQL
+  </p>
+
+</div>
 ###
 
 <p align="left"><strong>🚀 Tech Stack</strong></p>
