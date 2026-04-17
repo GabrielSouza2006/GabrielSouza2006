@@ -2,27 +2,8 @@
 
 <p align="left"><strong>🚀 Featured Projects</strong></p>
 
-<div align="left">
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=GabrielSouza2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielSouza2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" /> </div>
 
-  <p>
-    <strong>📅 Scheduling System (Java + Spring Boot)</strong><br>
-    Backend system for managing appointments, applying business rules and database integration.<br>
-    Technologies: Java, Spring Boot, MySQL
-  </p>
-
-  <p>
-    <strong>🔗 REST API (Python + Flask)</strong><br>
-    API for data processing and integration, following REST principles and clean code practices.<br>
-    Technologies: Python, Flask
-  </p>
-
-  <p>
-    <strong>🌐 Web Applications & Landing Pages</strong><br>
-    Development and maintenance of web systems, focusing on performance and business logic.<br>
-    Technologies: JavaScript, PHP, MySQL
-  </p>
-
-</div>
 ###
 
 <p align="left"><strong>🚀 Tech Stack</strong></p>
