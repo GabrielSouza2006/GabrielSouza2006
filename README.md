@@ -85,13 +85,19 @@
 
 <p align="left"><strong>📫 Contact</strong></p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/gabriel-santos-0b20a8261/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40"/>
-  </a>
-  <a href="mailto:gabriel.souza16906@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40"/>
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/gabriel-santos-0b20a8261/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="mailto:gabriel.souza16906@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
