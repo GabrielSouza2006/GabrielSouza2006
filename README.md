@@ -10,13 +10,9 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielSouza2006&theme=tokyo-night" />
-</div>
-
 ###
 
-<p align="left"><strong>🚀 Tech Stack</strong></p>
+<p align="center"><strong>🚀 Tech Stack</strong></p>
 
 <p align="left"><strong>💻 Languages</strong></p>
 <div align="left">
