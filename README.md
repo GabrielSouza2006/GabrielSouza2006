@@ -92,6 +92,7 @@
   <li>Improving backend architecture with Java + Spring</li>
   <li>Studying data analysis and Big Data concepts</li>
   <li>Deploying applications and improving DevOps skills</li>
+  <li>Developing applications with AI automation</li>
 </ul>
 
 ###
