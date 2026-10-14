@@ -1,33 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="560px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="740px" font-size="16px">
 <style>.key{fill:#ffa657}.val{fill:#a5d6ff}.cc,.dot{fill:#616e7f}.art{fill:#c9d1d9}text,tspan{white-space:pre}</style>
-<rect width="985px" height="560px" fill="#161b22" rx="15"/>
+<rect width="985px" height="740px" fill="#161b22" rx="15"/>
 <text x="15" y="30" class="art">
-<tspan x="15" y="30">              ++=+++++++</tspan>
-<tspan x="15" y="50">          +++==::===--=+++**</tspan>
-<tspan x="15" y="70">        ==-:-:.::...:::--=+++*</tspan>
-<tspan x="15" y="90">      ==:  ..  :---:::...---=+**</tspan>
-<tspan x="15" y="110">     =-:     :+#%%####*=-:.:.-++*</tspan>
-<tspan x="15" y="130">   -=-..   :=#%%%%%%%%%%%#+-.:=+*++</tspan>
-<tspan x="15" y="150">   -=-.   =*#####%%%%%###%%#=:=++++</tspan>
-<tspan x="15" y="170">  --=-.  .+*++++**###****##%*==+++++</tspan>
-<tspan x="15" y="190"> ---==:  :#**+++=+#%%*===#%%%=-=+++++</tspan>
-<tspan x="15" y="210"> ----=:  =##**++**#%%%%##%%%%+=++=+==</tspan>
-<tspan x="15" y="230">::-----..+###%%%##*#%#%%%%%%@#*=======</tspan>
-<tspan x="15" y="250">::-----=+*###%%##*=*#*#%%%%%%%#=======</tspan>
-<tspan x="15" y="270">::-----=#############%%%%%%%%%%=--====</tspan>
-<tspan x="15" y="290">:::---:-+*######*****####%%%%+----===-</tspan>
-<tspan x="15" y="310">:::::::::-=####*****####%%%%+:-::-----</tspan>
-<tspan x="15" y="330">::::::::::.-##******##%%%%%*::::::----</tspan>
-<tspan x="15" y="350"> ::::::::::.+*******######%-.::::::::</tspan>
-<tspan x="15" y="370"> ::::::::::.-**++++++**#%%#..:::..:::</tspan>
-<tspan x="15" y="390">  ::::::.  ..=********#%%%%:  ..:..:</tspan>
-<tspan x="15" y="410">   :..        -+*##**##%%%%+    .-=</tspan>
-<tspan x="15" y="430">   .          .+**######%%%#.     .</tspan>
-<tspan x="15" y="450">       .  .. ..=####%%#%%%#=.</tspan>
-<tspan x="15" y="470">         ......-=-+*****+==::.</tspan>
-<tspan x="15" y="490">         .... .:=-:::. ..:-.::</tspan>
-<tspan x="15" y="510">                ::--:::::-::</tspan>
-<tspan x="15" y="530">                   .:-::</tspan>
+<tspan x="15" y="110">              ++=+++++++</tspan>
+<tspan x="15" y="130">          +++==::===--=+++**</tspan>
+<tspan x="15" y="150">        ==-:-:.::...:::--=+++*</tspan>
+<tspan x="15" y="170">      ==:  ..  :---:::...---=+**</tspan>
+<tspan x="15" y="190">     =-:     :+#%%####*=-:.:.-++*</tspan>
+<tspan x="15" y="210">   -=-..   :=#%%%%%%%%%%%#+-.:=+*++</tspan>
+<tspan x="15" y="230">   -=-.   =*#####%%%%%###%%#=:=++++</tspan>
+<tspan x="15" y="250">  --=-.  .+*++++**###****##%*==+++++</tspan>
+<tspan x="15" y="270"> ---==:  :#**+++=+#%%*===#%%%=-=+++++</tspan>
+<tspan x="15" y="290"> ----=:  =##**++**#%%%%##%%%%+=++=+==</tspan>
+<tspan x="15" y="310">::-----..+###%%%##*#%#%%%%%%@#*=======</tspan>
+<tspan x="15" y="330">::-----=+*###%%##*=*#*#%%%%%%%#=======</tspan>
+<tspan x="15" y="350">::-----=#############%%%%%%%%%%=--====</tspan>
+<tspan x="15" y="370">:::---:-+*######*****####%%%%+----===-</tspan>
+<tspan x="15" y="390">:::::::::-=####*****####%%%%+:-::-----</tspan>
+<tspan x="15" y="410">::::::::::.-##******##%%%%%*::::::----</tspan>
+<tspan x="15" y="430"> ::::::::::.+*******######%-.::::::::</tspan>
+<tspan x="15" y="450"> ::::::::::.-**++++++**#%%#..:::..:::</tspan>
+<tspan x="15" y="470">  ::::::.  ..=********#%%%%:  ..:..:</tspan>
+<tspan x="15" y="490">   :..        -+*##**##%%%%+    .-=</tspan>
+<tspan x="15" y="510">   .          .+**######%%%#.     .</tspan>
+<tspan x="15" y="530">       .  .. ..=####%%#%%%#=.</tspan>
+<tspan x="15" y="550">         ......-=-+*****+==::.</tspan>
+<tspan x="15" y="570">         .... .:=-:::. ..:-.::</tspan>
+<tspan x="15" y="590">                ::--:::::-::</tspan>
+<tspan x="15" y="610">                   .:-::</tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30"><tspan class="key">gabriel@gabrielsouza2006</tspan><tspan class="dot"> ———————————————————————————————————</tspan></tspan>
@@ -38,19 +38,32 @@
 <tspan x="390" y="130"><tspan class="key">Kernel:</tspan><tspan class="dot"> ................... </tspan><tspan class="val">Engenheiro de Software FullStack</tspan></tspan>
 <tspan x="390" y="150"><tspan class="key">IDE:</tspan><tspan class="dot"> ......................... </tspan><tspan class="val">VS Code, Eclipse, Claude Code</tspan></tspan>
 <tspan x="390" y="170"></tspan>
-<tspan x="390" y="190"><tspan class="key">Languages.Programming:</tspan><tspan class="dot"> ... </tspan><tspan class="val">Python, Java, TypeScript, PHP, C#</tspan></tspan>
-<tspan x="390" y="210"><tspan class="key">Frameworks:</tspan><tspan class="dot"> ................ </tspan><tspan class="val">Spring, React, Angular, Next.js</tspan></tspan>
-<tspan x="390" y="230"><tspan class="key">Databases:</tspan><tspan class="dot"> ................... </tspan><tspan class="val">MySQL, PostgreSQL, SQL Server</tspan></tspan>
-<tspan x="390" y="250"><tspan class="key">Languages.Real:</tspan><tspan class="dot"> ......................... </tspan><tspan class="val">Português, English</tspan></tspan>
-<tspan x="390" y="270"></tspan>
-<tspan x="390" y="290"><tspan class="cc">— Contact </tspan><tspan class="dot">——————————————————————————————————————————————————</tspan></tspan>
-<tspan x="390" y="310"><tspan class="key">Email:</tspan><tspan class="dot"> ........................ </tspan><tspan class="val">gabriel.souza16906@gmail.com</tspan></tspan>
-<tspan x="390" y="330"><tspan class="key">LinkedIn:</tspan><tspan class="dot"> ...................... </tspan><tspan class="val">in/gabriel-santos-0b20a8261</tspan></tspan>
-<tspan x="390" y="350"></tspan>
-<tspan x="390" y="370"><tspan class="cc">— GitHub Stats </tspan><tspan class="dot">—————————————————————————————————————————————</tspan></tspan>
-<tspan x="390" y="390"><tspan class="key">Repos:</tspan><tspan class="dot"> ................................................... </tspan><tspan class="val">7</tspan></tspan>
-<tspan x="390" y="410"><tspan class="key">Stars:</tspan><tspan class="dot"> ................................................... </tspan><tspan class="val">7</tspan></tspan>
-<tspan x="390" y="430"><tspan class="key">Commits:</tspan><tspan class="dot"> .............................................. </tspan><tspan class="val">4732</tspan></tspan>
-<tspan x="390" y="450"><tspan class="key">Followers:</tspan><tspan class="dot"> ............................................... </tspan><tspan class="val">5</tspan></tspan>
+<tspan x="390" y="190"><tspan class="cc">— Tech Stack </tspan><tspan class="dot">———————————————————————————————————————————————</tspan></tspan>
+<tspan x="390" y="210"><tspan class="key">Languages:</tspan><tspan class="dot"> ............ </tspan><tspan class="val">Python, Java, TypeScript, JavaScript</tspan></tspan>
+<tspan x="390" y="230"><tspan class="key">Languages.Other:</tspan><tspan class="dot"> ................................... </tspan><tspan class="val">PHP, C#</tspan></tspan>
+<tspan x="390" y="250"><tspan class="key">Backend:</tspan><tspan class="dot"> ........................ </tspan><tspan class="val">Spring, Flask, CodeIgniter</tspan></tspan>
+<tspan x="390" y="270"><tspan class="key">Frontend:</tspan><tspan class="dot"> .................... </tspan><tspan class="val">React, Angular, Next.js, Nuxt</tspan></tspan>
+<tspan x="390" y="290"><tspan class="key">UI:</tspan><tspan class="dot"> ................................... </tspan><tspan class="val">HTML, CSS, Bootstrap</tspan></tspan>
+<tspan x="390" y="310"><tspan class="key">Mobile:</tspan><tspan class="dot"> ............................................... </tspan><tspan class="val">Expo</tspan></tspan>
+<tspan x="390" y="330"><tspan class="key">Databases:</tspan><tspan class="dot"> ................... </tspan><tspan class="val">MySQL, PostgreSQL, SQL Server</tspan></tspan>
+<tspan x="390" y="350"><tspan class="key">Tools:</tspan><tspan class="dot"> .......................... </tspan><tspan class="val">Git, GitHub, Docker, Linux</tspan></tspan>
+<tspan x="390" y="370"><tspan class="key">Languages.Real:</tspan><tspan class="dot"> ......................... </tspan><tspan class="val">Português, English</tspan></tspan>
+<tspan x="390" y="390"></tspan>
+<tspan x="390" y="410"><tspan class="cc">— Working On </tspan><tspan class="dot">———————————————————————————————————————————————</tspan></tspan>
+<tspan x="390" y="430"><tspan class="val">• APIs com Python (Flask)</tspan></tspan>
+<tspan x="390" y="450"><tspan class="val">• Arquitetura backend com Java + Spring</tspan></tspan>
+<tspan x="390" y="470"><tspan class="val">• Análise de dados e Big Data</tspan></tspan>
+<tspan x="390" y="490"><tspan class="val">• Deploy de aplicações e DevOps</tspan></tspan>
+<tspan x="390" y="510"><tspan class="val">• Aplicações com automação de IA</tspan></tspan>
+<tspan x="390" y="530"></tspan>
+<tspan x="390" y="550"><tspan class="cc">— Contact </tspan><tspan class="dot">——————————————————————————————————————————————————</tspan></tspan>
+<tspan x="390" y="570"><tspan class="key">Email:</tspan><tspan class="dot"> ........................ </tspan><tspan class="val">gabriel.souza16906@gmail.com</tspan></tspan>
+<tspan x="390" y="590"><tspan class="key">LinkedIn:</tspan><tspan class="dot"> ...................... </tspan><tspan class="val">in/gabriel-santos-0b20a8261</tspan></tspan>
+<tspan x="390" y="610"></tspan>
+<tspan x="390" y="630"><tspan class="cc">— GitHub Stats </tspan><tspan class="dot">—————————————————————————————————————————————</tspan></tspan>
+<tspan x="390" y="650"><tspan class="key">Repos:</tspan><tspan class="dot"> ................................................... </tspan><tspan class="val">7</tspan></tspan>
+<tspan x="390" y="670"><tspan class="key">Stars:</tspan><tspan class="dot"> ................................................... </tspan><tspan class="val">7</tspan></tspan>
+<tspan x="390" y="690"><tspan class="key">Commits:</tspan><tspan class="dot"> .............................................. </tspan><tspan class="val">4733</tspan></tspan>
+<tspan x="390" y="710"><tspan class="key">Followers:</tspan><tspan class="dot"> ............................................... </tspan><tspan class="val">5</tspan></tspan>
 </text>
 </svg>

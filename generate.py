@@ -44,6 +44,7 @@ def main():
 
     W = 60  # largura da coluna de info, em caracteres
     def kv(k, v):
+        assert len(k) + len(v) + 4 <= W, f"linha longa demais: {k}"
         return [("key", k + ":"), ("dot", " " + "." * (W - len(k) - len(v) - 3) + " "), ("val", v)]
     def head(t):
         return [("cc", "— " + t + " "), ("dot", "—" * (W - len(t) - 3))]
@@ -57,10 +58,23 @@ def main():
         kv("Kernel", "Engenheiro de Software FullStack"),
         kv("IDE", "VS Code, Eclipse, Claude Code"),
         [],
-        kv("Languages.Programming", "Python, Java, TypeScript, PHP, C#"),
-        kv("Frameworks", "Spring, React, Angular, Next.js"),
+        head("Tech Stack"),
+        kv("Languages", "Python, Java, TypeScript, JavaScript"),
+        kv("Languages.Other", "PHP, C#"),
+        kv("Backend", "Spring, Flask, CodeIgniter"),
+        kv("Frontend", "React, Angular, Next.js, Nuxt"),
+        kv("UI", "HTML, CSS, Bootstrap"),
+        kv("Mobile", "Expo"),
         kv("Databases", "MySQL, PostgreSQL, SQL Server"),
+        kv("Tools", "Git, GitHub, Docker, Linux"),
         kv("Languages.Real", "Português, English"),
+        [],
+        head("Working On"),
+        [("val", "• APIs com Python (Flask)")],
+        [("val", "• Arquitetura backend com Java + Spring")],
+        [("val", "• Análise de dados e Big Data")],
+        [("val", "• Deploy de aplicações e DevOps")],
+        [("val", "• Aplicações com automação de IA")],
         [],
         head("Contact"),
         kv("Email", "gabriel.souza16906@gmail.com"),
@@ -79,7 +93,7 @@ def main():
            "<style>.key{fill:#ffa657}.val{fill:#a5d6ff}.cc,.dot{fill:#616e7f}.art{fill:#c9d1d9}text,tspan{white-space:pre}</style>",
            f'<rect width="985px" height="{height}px" fill="#161b22" rx="15"/>',
            f'<text x="15" y="{top}" class="art">']
-    out += [f'<tspan x="15" y="{top + i * lh}">{escape(l)}</tspan>' for i, l in enumerate(art)]
+    out += [f'<tspan x="15" y="{top + (i + max(0, len(info) - len(art)) // 2) * lh}">{escape(l)}</tspan>' for i, l in enumerate(art)]
     out.append("</text>")
     out.append(f'<text x="390" y="{top}" fill="#c9d1d9">')
     for i, parts in enumerate(info):
