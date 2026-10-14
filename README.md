@@ -1,6 +1,4 @@
-<p align="center">Hi, I'm Gabriel Souza 👋</p>
-
-<p align="center">Engenheiro de Software FullStack | Python • Java • TypeScript • Automação de IA</p>
+<p align="center"><img src="dark_mode.svg" alt="Gabriel Souza — neofetch"/></p>
 
 <p align="center"><strong>📊 GitHub Insights</strong></p>
 
